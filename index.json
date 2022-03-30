@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "quote": "Cuando no es la prudencia la que forma los vínculos de la amistad, la locura los rompe fácilmente.",
+    "author": "William Shakespeare"
+  },
+    {
+    "id": 2,
+    "quote": "No perdamos la perspectiva, es lo único importante.",
+    "author": "Camilo José Cela"
+  }
+  ,
+    {
+    "id": 3,
+    "quote": "Abrid escuelas y se cerrarán cárceles.",
+    "author": "Concepción Arenal"
+  }
+  ,
+    {
+    "id": 4,
+    "quote": "Las dos bases fundamentales de la paz social son la justicia y lo que llamamos convencionalmente la cultura, es decir, la instrucción y la educación.",
+    "author": "Ideario Pedagógico"
+  }
+]
